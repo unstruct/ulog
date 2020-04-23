@@ -1,2 +1,6 @@
-# ulog
-reverse parse structured log event to output human readable format
+# ulog 
+
+Print out your human-readable **unstructured logs**
+
+Reverse-parse structured log events (for example in JSON) to output human readable format.
+
